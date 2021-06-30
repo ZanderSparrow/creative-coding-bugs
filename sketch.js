@@ -4,11 +4,11 @@ let flock;
 let bg;
 
 // function preload() {
-//   bg = loadImage('./nebula1000.jpg');
+//   bg = loadImage('./assets/nebula1000.jpg');
 // }
 
 function setup() {
-  // bg = loadImage('./nebula1000.jpg');
+  // bg = loadImage('./assets/nebula1000.jpg');
   // createCanvas(1000, 1000);
   createCanvas(windowWidth, windowHeight);
   createP("Drag the mouse to generate new bugs.");
